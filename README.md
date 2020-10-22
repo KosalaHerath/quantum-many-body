@@ -4,7 +4,7 @@
 Implementation for quantum theory models of many-body systems in condensed matter physics.
 
 <p align="center"> 
-  <img src="https://blogs-images.forbes.com/startswithabang/files/2018/03/leinie.gif" width="500" height="400" />
+  <img src="./Utils/quantum_vaccum.gif" width="500" height="400" />
 </p>
 
 Please suggest any modifications that will improve these implementations by reporting an issue. Happy to help you!
